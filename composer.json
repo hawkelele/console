@@ -1,0 +1,13 @@
+{
+    "name": "hawkelele/console",
+    "description": "Message output class for console or web based scripts",
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "Hawkelele\\Console\\": "src"
+        }
+    },
+    "require": {
+        "php": "^7.3"
+    }
+}
